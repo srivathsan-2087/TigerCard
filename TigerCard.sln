@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TigerCard.Business", "TigerCard.Business\TigerCard.Business.csproj", "{35C9B8D7-C5F1-4BF8-A95E-6EF0B6A1D055}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TigerCard.Test", "TigerCard.Test\TigerCard.Test.csproj", "{E94FE6EA-D731-45E6-B0CA-1C72DEE6CE75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TigerCard.IntegrationTest", "TigerCard.IntegrationTest\TigerCard.IntegrationTest.csproj", "{E5B13261-E1ED-4968-95AF-8A1B1BF5DF81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B577D4B-3AC4-460B-9F34-E0E2C0BE2B69}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C9B8D7-C5F1-4BF8-A95E-6EF0B6A1D055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C9B8D7-C5F1-4BF8-A95E-6EF0B6A1D055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C9B8D7-C5F1-4BF8-A95E-6EF0B6A1D055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C9B8D7-C5F1-4BF8-A95E-6EF0B6A1D055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94FE6EA-D731-45E6-B0CA-1C72DEE6CE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94FE6EA-D731-45E6-B0CA-1C72DEE6CE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94FE6EA-D731-45E6-B0CA-1C72DEE6CE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94FE6EA-D731-45E6-B0CA-1C72DEE6CE75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B13261-E1ED-4968-95AF-8A1B1BF5DF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B13261-E1ED-4968-95AF-8A1B1BF5DF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B13261-E1ED-4968-95AF-8A1B1BF5DF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B13261-E1ED-4968-95AF-8A1B1BF5DF81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD29D423-07DC-41B5-A3EC-9C9C0EE9EFFF}
+	EndGlobalSection
+EndGlobal
